@@ -244,7 +244,7 @@ Warm (61–80°F) weeks generated the highest overall sales.
  Use of Views  
  Business Insights  
  Portfolio-Ready Documentation  
-✔ Ability to work with real-world retail data  
+ Ability to work with real-world retail data  
 
 
 
