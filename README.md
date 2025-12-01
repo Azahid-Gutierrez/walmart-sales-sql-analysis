@@ -238,12 +238,12 @@ Warm (61–80°F) weeks generated the highest overall sales.
 
 #  What This Project Demonstrates
 
-✔ SQL Data Cleaning  
-✔ Aggregations & KPIs  
-✔ Trend & Time Series Analysis  
-✔ Use of Views  
-✔ Business Insights  
-✔ Portfolio-Ready Documentation  
+ SQL Data Cleaning  
+ Aggregations & KPIs  
+ Trend & Time Series Analysis  
+ Use of Views  
+ Business Insights  
+ Portfolio-Ready Documentation  
 ✔ Ability to work with real-world retail data  
 
 
