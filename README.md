@@ -26,19 +26,19 @@ Total rows: **421,570+**
 The goal of this SQL project is to perform a full exploratory data analysis (EDA) on Walmart’s retail performance.  
 This project demonstrates:
 
-✔ SQL cleaning & preparation  
-✔ Aggregation & grouping  
-✔ Trend analysis  
-✔ Holiday impact evaluation  
-✔ Economic indicator analysis  
-✔ SQL views for BI tools  
-✔ Documentation of insights  
+ SQL cleaning & preparation  
+ Aggregation & grouping  
+ Trend analysis  
+ Holiday impact evaluation  
+ Economic indicator analysis  
+ SQL views for BI tools  
+ Documentation of insights  
 
 ---
 
 #  SQL Analysis Breakdown
 
-## **1️ Sanity Checks**
+## ** Sanity Checks**
 Validate data shape and structure.
 
 ```sql
@@ -53,7 +53,7 @@ SELECT * FROM Walmart ORDER BY Date, Store LIMIT 10;
 
 ---
 
-## **2️ Overall Sales KPIs**
+## ** Overall Sales KPIs**
 
 ```sql
 SELECT ROUND(SUM(Weekly_Sales), 2) AS Total_Sales FROM Walmart;
@@ -68,7 +68,7 @@ SELECT COUNT(DISTINCT Date) AS Distinct_Weeks FROM Walmart;
 
 ---
 
-## **3️ Best & Worst Performing Stores**
+## ** Best & Worst Performing Stores**
 
 ### Top 10 Stores
 ```sql
